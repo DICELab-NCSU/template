@@ -1,0 +1,15 @@
+Binding: mk_new_project
+Title: DICE Project Template
+Icon: dice.png
+
+Parameter: name
+Widget: TextInput
+Label: Brief, descriptive title of the project
+Default: Effect of X on Y
+Position: left
+
+Parameter: usegit
+Widget: CheckboxInput
+Label: Set up a git repository?
+Default: On
+Position: right

@@ -1,0 +1,14 @@
+Package: template
+Type: Package
+Title: Template File Structure for a DICE Lab Project
+Version: 0.1.0
+Author@R: person("William K.", "Petry", email = "wpetry@ncsu.edu", role = c("aut", "cre"))
+Description: This package contains an RStudio project template that sets up a standard
+    file structure for a typical research project in the DICE Lab.
+Depends: R (>= 4.0.0)
+Imports: usethis, gert
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
