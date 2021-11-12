@@ -17,7 +17,7 @@ directory, scroll down the list of creation options to 'DICE Lab Template'.
 
 `New Project...` > `New Directory` > `🎲 DICE Project Template`
 
-This will set up the following file structure:
+This will set up the file structure
 ```
 Project Name
    ├╴code
@@ -30,3 +30,4 @@ Project Name
    ├╴acknowledgements.md
    └╴README.md
 ```
+in whichever directory you choose and with the `Project Name` you provide.
