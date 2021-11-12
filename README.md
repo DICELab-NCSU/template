@@ -14,3 +14,19 @@ remotes::install_github("DICELab-NCSU/template")
 
 RStudio will recognize the template automatically. When creating an RStudio project in a new 
 directory, scroll down the list of creation options to 'DICE Lab Template'.
+
+`New Project...` > `New Directory` > `🎲 DICE Project Template`
+
+This will set up the following file structure:
+```
+Project Name
+   ├╴code
+   ├╴data-derived
+   ├╴data-raw
+   ├╴design
+   ├╴figures
+   ├╴manuscript
+   ├╴photos
+   ├╴acknowledgements.md
+   └╴README.md
+```
